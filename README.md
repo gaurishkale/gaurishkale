@@ -25,17 +25,12 @@ Building intelligent AI systems with Machine Learning, LLMs, Computer Vision and
 ---
 
 ### Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,mysql,sqlite,git,github,docker,vscode" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,docker,git,github,mysql,sqlite,vscode,linux,postman" />
 </p>
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,angular" />
-
+<p align="center">
+  Python • TensorFlow • PyTorch • Scikit-learn • FastAPI • Flask • Docker • Git • GitHub • MySQL • SQLite • VS Code • Linux • Postman
 </p>
 
 ---
