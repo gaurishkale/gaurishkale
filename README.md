@@ -1,114 +1,61 @@
-<h1 align="center">Hi 👋, I'm Gaurish Kale</h1>
+<h1 align="center">Hi, I'm Gaurish Kale</h1>
 
-<h3 align="center">
-AI/ML Engineer | Data Science Enthusiast | Generative AI Developer
-</h3>
+<h3 align="center">AI/ML Engineer • Data Scientist • Generative AI Developer</h3>
 
 <p align="center">
-Building intelligent applications using Machine Learning, Computer Vision, Large Language Models, and Data Analytics.
+Building intelligent AI systems with Machine Learning, LLMs, Computer Vision and Data Analytics.
+</p>
+
+<p align="center">
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="YOUR_GITHUB">Projects</a> •
+<a href="YOUR_RESUME">Resume</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-🎓 B.E. in Artificial Intelligence & Machine Learning (2026)
-
-💼 Former AI & Automation Intern at L&T SUFIN
-
-📍 Mumbai, India
-
-🌱 Currently learning:
-- Advanced RAG Systems
-- Agentic AI
-- LangGraph
-- LLM Applications
-- MLOps
-
-💡 Passionate about solving real-world problems using AI and Data Science.
+- B.E. Artificial Intelligence & Machine Learning (2026)
+- Former AI & Automation Intern at **L&T SUFIN**
+- Building AI applications focused on **LLMs, RAG, Computer Vision, and Predictive Analytics**
+- Open to AI/ML, Data Science, and Generative AI opportunities
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-### Programming
-Python • SQL • JavaScript
+<p align="left">
 
-### Machine Learning
-Scikit-Learn • TensorFlow • PyTorch • LightGBM • XGBoost
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,mysql,sqlite,git,github,docker,vscode" />
 
-### Generative AI
-LangChain • RAG • OpenAI APIs • Ollama • Prompt Engineering
+</p>
 
-### Data Science
-Pandas • NumPy • Matplotlib • Power BI
+<p align="left">
 
-### Web & Backend
-FastAPI • Flask • Streamlit • SQLite
+<img src="https://skillicons.dev/icons?i=js,html,css,react,angular" />
 
-### Tools
-Git • GitHub • VS Code • Google Colab
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### Featured Projects
 
-### 👁️ Eye Disease Detection
-Deep learning system using ConvNeXtV2 to classify retinal fundus images across multiple eye diseases.
-
-**Tech:** PyTorch • Computer Vision • Deep Learning
-
----
-
-### 💳 CreditIQ – AI Loan Risk Prediction
-Built a production-grade credit risk prediction system using LightGBM on 1.3M+ Lending Club loan records with ROC-AUC of 0.95+.
-
-**Tech:** Python • LightGBM • SHAP • Feature Engineering
+- **CreditIQ** — AI-powered Loan Risk Prediction using LightGBM & SHAP
+- **Eye Disease Detection** — Multi-class Computer Vision system using ConvNeXtV2
+- **AI SQL Assistant** — Natural Language to SQL using LLMs
+- **Power BI Sales Dashboard** — Interactive Business Intelligence Dashboard
+- **Stock Price Analysis** — ML-powered forecasting with Streamlit
 
 ---
 
-### 🤖 AI SQL Assistant
-LLM-powered chatbot that converts natural language into SQL queries and retrieves answers from structured databases.
+### Currently Exploring
 
-**Tech:** LangChain • SQLite • OpenAI • Python
-
----
-
-### 📊 Power BI Sales Dashboard
-Interactive business intelligence dashboard providing insights into sales, revenue, customer behavior, and profitability.
-
-**Tech:** Power BI • DAX • Data Visualization
+`Agentic AI` • `LangGraph` • `Advanced RAG` • `MCP` • `MLOps`
 
 ---
 
-### 📈 Stock Price Analysis & Prediction
-Machine learning application for stock analysis with technical indicators and forecasting.
-
-**Tech:** Streamlit • Scikit-Learn • Plotly
-
----
-
-## 📚 Currently Exploring
-
-- Large Language Models
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- MLOps
-- AI Automation
-- Advanced Machine Learning
-
----
-
-## 📫 Connect With Me
-
-📧 Email: your_email@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/your-profile
-
-🌐 Portfolio:
-Coming Soon...
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<p align="center">
+Building impactful AI products, one project at a time.
+</p>
