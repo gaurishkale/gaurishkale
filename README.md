@@ -46,13 +46,48 @@ Building intelligent AI systems with Machine Learning, LLMs, Computer Vision and
 ---
 
 ### Featured Projects
+## Featured Projects
 
-- **CreditIQ** — AI-powered Loan Risk Prediction using LightGBM & SHAP
-- **Eye Disease Detection** — Multi-class Computer Vision system using ConvNeXtV2
-- **AI SQL Assistant** — Natural Language to SQL using LLMs
-- **Power BI Sales Dashboard** — Interactive Business Intelligence Dashboard
-- **Stock Price Analysis** — ML-powered forecasting with Streamlit
+### CreditIQ – AI Loan Risk Prediction
+Production-grade credit risk prediction system trained on 1.3M+ Lending Club loan records using LightGBM. Achieved **ROC-AUC: 0.9587** with explainable predictions using SHAP.
 
+**Tech:** Python • LightGBM • SHAP • Pandas • Scikit-learn • Streamlit
+
+🔗 **Repository:** [CreditIQ](https://github.com/yourusername/CreditIQ)
+
+---
+
+### Eye Disease Detection
+Deep learning system for automated retinal disease classification using **ConvNeXtV2**, capable of detecting multiple eye diseases from fundus images.
+
+**Tech:** Python • PyTorch • ConvNeXtV2 • OpenCV • Computer Vision
+
+🔗 **Repository:** [Eye Disease Detection](https://github.com/gaurishkale/Eye-Disease_Detection)
+
+---
+
+### AI SQL Assistant
+Natural language to SQL application powered by LLMs, enabling users to query databases using conversational language.
+
+**Tech:** OpenAI • LangChain • SQLite • FastAPI • Python
+
+🔗 **Repository:** [AI SQL Assistant](https://github.com/gaurishkale/LLM_Project_Database_QA)
+
+---
+
+### Power BI Sales Dashboard
+Interactive dashboard providing insights into revenue, profit, customer trends, and sales performance with dynamic filtering.
+
+**Tech:** Power BI • DAX • Data Visualization
+
+---
+
+### Stock Price Analysis & Prediction
+Machine learning application for stock analysis featuring technical indicators, interactive visualizations, and forecasting.
+
+**Tech:** Python • Streamlit • Scikit-learn • Plotly • Pandas
+
+🔗 **Repository:** [Stock Price Analysis](https://github.com/gaurishkale/StockpriceanalysisNprediction)
 ---
 
 ### Currently Exploring
