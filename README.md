@@ -78,17 +78,18 @@ Building production-ready AI applications with <strong>LLMs, RAG, Machine Learni
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🧠 **AtlasIQ** | AI Financial Research Assistant using FastAPI, LangChain, ChromaDB & Gemini • **[Repository](https://github.com/gaurishkale/AtlasIQ)** |
-| 💳 **CreditIQ** | AI-powered Loan Risk Prediction using LightGBM & SHAP • **[Repository](https://github.com/gaurishkale/CreditIQ)** |
-| 👁️ **Eye Disease Detection** | Deep Learning-based retinal disease classification using ConvNeXtV2 • **[Repository](https://github.com/gaurishkale/Eye-Disease_Detection)** |
-| 💬 **AI SQL Assistant** | Natural Language to SQL using LLMs & LangChain • **[Repository](https://github.com/gaurishkale/LLM_Project_Database_QA)** |
-| 📈 **Stock Price Analysis** | Machine Learning-powered stock analysis dashboard • **[Repository](https://github.com/gaurishkale/StockpriceanalysisNprediction)** |
+|---------|-------------|
+| 🧠 **AtlasIQ** | AI Financial Research Assistant using RAG, FastAPI, ChromaDB, Hugging Face, and Gemini • [Repository](https://github.com/gaurishkale/Atlas-AI-Financial-Research-Assistant) |
+| 💳 **CreditIQ** | AI-powered loan risk prediction system with LightGBM and SHAP • [Repository](https://github.com/gaurishkale/CreditIQ) |
+| 👁️ **Automated Fundus Disease Detection** | Deep learning system for retinal disease detection using ConvNeXtV2 • [Repository](https://github.com/gaurishkale/Automated-Fundus-Disease-Detection) |
+| 💬 **AI SQL Assistant** | Natural language to SQL application powered by LLMs and LangChain • [Repository](https://github.com/gaurishkale/LLM_Project_Database_QA) |
+| 📊 **Power BI Sales Dashboard** | Interactive sales analytics dashboard with business insights and filtering • [Repository](https://github.com/gaurishkale/PowerBI_Sales_Dashboard) |
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
