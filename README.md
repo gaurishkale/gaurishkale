@@ -11,8 +11,8 @@ Building production-ready AI applications with <strong>LLMs, RAG, Machine Learni
 <p align="center">
 <a href="https://www.linkedin.com/in/gaurishkale16">LinkedIn</a> •
 <a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="YOUR_RESUME">Resume</a> •
-<a href="kalegaurish03@gmail.com">Email</a>
+<a href="https://drive.google.com/file/d/1QBBg-UxgZqMahjS_J0bUWRlCwCocwL8t/view?usp=drive_link">Resume</a> •
+<a href="mailto:kalegaurish03@gmail.com">Email</a>
 </p>
 
 ---
