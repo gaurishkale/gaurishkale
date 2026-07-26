@@ -127,12 +127,17 @@ Building production-ready AI applications with <strong>LLMs, RAG, Machine Learni
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gaurishkale&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurishkale&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gaurishkale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurishkale&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gaurishkale&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 ## 🏆 GitHub Trophies
 
