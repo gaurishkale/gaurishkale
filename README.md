@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurish Kale</h1>
+<h1 align="center">Hello, I'm Gaurish Kale</h1>
 
 <h3 align="center">
 AI/ML Engineer • Generative AI Developer • Data Scientist
@@ -133,12 +133,6 @@ Building production-ready AI applications with <strong>LLMs, RAG, Machine Learni
   <img src="https://streak-stats.demolab.com?user=gaurishkale&theme=tokyonight&hide_border=true" />
 </p>
 
----
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gaurishkale&theme=tokyonight&hide_border=true" />
-</p>
 --
 ## 📫 Connect With Me
 
