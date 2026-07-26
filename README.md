@@ -1,101 +1,137 @@
-<h1 align="center">Hi, I'm Gaurish Kale</h1>
+<h1 align="center">Hi 👋, I'm Gaurish Kale</h1>
 
-<h3 align="center">AI/ML Engineer • Data Scientist • Generative AI Developer</h3>
+<h3 align="center">
+AI/ML Engineer • Generative AI Developer • Data Scientist
+</h3>
 
 <p align="center">
-Building intelligent AI systems with Machine Learning, LLMs, Computer Vision and Data Analytics.
+Building production-ready AI applications with <strong>LLMs, RAG, Machine Learning, Computer Vision, and Data Analytics.</strong>
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_GITHUB">Projects</a> •
+<a href="https://www.linkedin.com/in/gaurishkale16">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
 <a href="YOUR_RESUME">Resume</a> •
 <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-### About
+## 👨‍💻 About Me
 
-- B.E. Artificial Intelligence & Machine Learning (2026)
-- Former AI & Automation Intern at **L&T SUFIN**
-- Building AI applications focused on **LLMs, RAG, Computer Vision, and Predictive Analytics**
-- Open to AI/ML, Data Science, and Generative AI opportunities
+- 🎓 B.E. in Artificial Intelligence & Machine Learning (2026)
+- 💼 Former AI & Automation Intern at **L&T SUFIN**
+- 🤖 Passionate about **Generative AI, RAG, Machine Learning, and AI Automation**
+- 🌱 Currently building production-ready AI applications with **FastAPI, LangChain, ChromaDB, Hugging Face, and Google Gemini**
+- 🚀 Open to **AI/ML Engineer**, **Generative AI Engineer**, and **Data Scientist** opportunities
 
 ---
 
-### Tech Stack
-<h3>Tech Stack</h3>
+## 🛠️ Tech Stack
+
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,mysql,sqlite,docker,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,sqlite" />
 </p>
 
+### AI / Machine Learning
+
 <p align="center">
-<strong>Machine Learning:</strong> Scikit-learn • LightGBM • XGBoost • SHAP
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
+**Libraries**
+
+- Scikit-learn
+- LightGBM
+- XGBoost
+- SHAP
+- OpenCV
+- Pandas
+- NumPy
+
+### Generative AI
+
+- LangChain
+- LangGraph
+- Hugging Face
+- Google Gemini
+- OpenAI
+- Ollama
+- ChromaDB
+- FAISS
+- Retrieval-Augmented Generation (RAG)
+
+### Backend & Tools
+
 <p align="center">
-<strong>Generative AI:</strong> LangChain • LangGraph • OpenAI • Hugging Face • Ollama • RAG
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,linux,vscode,postman" />
 </p>
 
+### Data Analytics
+
+- Power BI
+- Streamlit
+- Plotly
+- Matplotlib
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🧠 **AtlasIQ** | AI Financial Research Assistant using FastAPI, LangChain, ChromaDB & Gemini • **[Repository](https://github.com/gaurishkale/AtlasIQ)** |
+| 💳 **CreditIQ** | AI-powered Loan Risk Prediction using LightGBM & SHAP • **[Repository](https://github.com/gaurishkale/CreditIQ)** |
+| 👁️ **Eye Disease Detection** | Deep Learning-based retinal disease classification using ConvNeXtV2 • **[Repository](https://github.com/gaurishkale/Eye-Disease_Detection)** |
+| 💬 **AI SQL Assistant** | Natural Language to SQL using LLMs & LangChain • **[Repository](https://github.com/gaurishkale/LLM_Project_Database_QA)** |
+| 📈 **Stock Price Analysis** | Machine Learning-powered stock analysis dashboard • **[Repository](https://github.com/gaurishkale/StockpriceanalysisNprediction)** |
+
+---
+## 📊 GitHub Stats
+
 <p align="center">
-<strong>Data Science:</strong> Pandas • NumPy • Power BI • Streamlit • Plotly
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gaurishkale&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurishkale&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gaurishkale&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+---
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=gaurishkale&theme=tokyonight&hide_border=true" />
+</p>
+---
+
+## 🌱 Currently Learning
+
+- 🤖 AI Agents
+- 🧠 Advanced RAG
+- 🔄 LangGraph
+- 🔌 Model Context Protocol (MCP)
+- ☁️ MLOps
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gaurishkale16">LinkedIn</a> •
+<a href="https://github.com/gaurishkale">GitHub</a> •
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+
 </p>
 
 ---
 
-### Featured Projects
-## Featured Projects
-
-### CreditIQ – AI Loan Risk Prediction
-Production-grade credit risk prediction system trained on 1.3M+ Lending Club loan records using LightGBM. Achieved **ROC-AUC: 0.9587** with explainable predictions using SHAP.
-
-**Tech:** Python • LightGBM • SHAP • Pandas • Scikit-learn • Streamlit
-
-🔗 **Repository:** [CreditIQ](https://github.com/yourusername/CreditIQ)
-
----
-
-### Eye Disease Detection
-Deep learning system for automated retinal disease classification using **ConvNeXtV2**, capable of detecting multiple eye diseases from fundus images.
-
-**Tech:** Python • PyTorch • ConvNeXtV2 • OpenCV • Computer Vision
-
-🔗 **Repository:** [Eye Disease Detection](https://github.com/gaurishkale/Eye-Disease_Detection)
-
----
-
-### AI SQL Assistant
-Natural language to SQL application powered by LLMs, enabling users to query databases using conversational language.
-
-**Tech:** OpenAI • LangChain • SQLite • FastAPI • Python
-
-🔗 **Repository:** [AI SQL Assistant](https://github.com/gaurishkale/LLM_Project_Database_QA)
-
----
-
-### Power BI Sales Dashboard
-Interactive dashboard providing insights into revenue, profit, customer trends, and sales performance with dynamic filtering.
-
-**Tech:** Power BI • DAX • Data Visualization
-
----
-
-### Stock Price Analysis & Prediction
-Machine learning application for stock analysis featuring technical indicators, interactive visualizations, and forecasting.
-
-**Tech:** Python • Streamlit • Scikit-learn • Plotly • Pandas
-
-🔗 **Repository:** [Stock Price Analysis](https://github.com/gaurishkale/StockpriceanalysisNprediction)
----
-
-### Currently Exploring
-
-`Agentic AI` • `LangGraph` • `Advanced RAG` • `MCP` • `MLOps`
-
----
-
 <p align="center">
-Building impactful AI products, one project at a time.
+
+⭐ <strong>Building AI products that solve real-world problems.</strong>
+
 </p>
