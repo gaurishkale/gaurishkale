@@ -29,53 +29,90 @@ Building production-ready AI applications with <strong>LLMs, RAG, Machine Learni
 
 ## 🛠️ Tech Stack
 
-### Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,sqlite" />
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,sqlite" />
 </p>
 
-### AI / Machine Learning
+</td>
 
-<p align="center">
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-**Libraries**
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-- Scikit-learn
-- LightGBM
-- XGBoost
-- SHAP
-- OpenCV
-- Pandas
-- NumPy
+</td>
+</tr>
 
-### Generative AI
+<tr>
+<td valign="top">
 
-- LangChain
-- LangGraph
-- Hugging Face
-- Google Gemini
-- OpenAI
-- Ollama
-- ChromaDB
-- FAISS
-- Retrieval-Augmented Generation (RAG)
+### 🧠 Generative AI
 
-### Backend & Tools
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E88E5?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A1B9A?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=for-the-badge)
 
-<p align="center">
+</td>
+
+<td valign="top">
+
+### ⚙️ Backend & Dev Tools
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,linux,vscode,postman" />
 </p>
 
-### Data Analytics
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-- Power BI
-- Streamlit
-- Plotly
-- Matplotlib
+</td>
+</tr>
 
+<tr>
+<td valign="top">
+
+### 📊 Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+</td>
+
+<td valign="top">
+
+### ☁️ Currently Learning
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E88E5?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6C63FF?style=for-the-badge)
+![Advanced RAG](https://img.shields.io/badge/Advanced_RAG-8A2BE2?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-009688?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
@@ -106,18 +143,7 @@ Building production-ready AI applications with <strong>LLMs, RAG, Machine Learni
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=gaurishkale&theme=tokyonight&hide_border=true" />
 </p>
----
-
-## 🌱 Currently Learning
-
-- 🤖 AI Agents
-- 🧠 Advanced RAG
-- 🔄 LangGraph
-- 🔌 Model Context Protocol (MCP)
-- ☁️ MLOps
-
----
-
+--
 ## 📫 Connect With Me
 
 <p align="center">
