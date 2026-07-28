@@ -124,14 +124,6 @@ Building production-ready AI applications with <strong>LLMs, RAG, Machine Learni
 | 📊 **Power BI Sales Dashboard** | Interactive sales analytics dashboard with business insights and filtering • [Repository](https://github.com/gaurishkale/PowerBI_Sales_Dashboard) |
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gaurishkale&theme=tokyonight&hide_border=true" />
-</p>
-
---
 ## 📫 Connect With Me
 
 <p align="center">
